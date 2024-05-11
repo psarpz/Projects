@@ -1,0 +1,9 @@
+[submodule "submodules/hangmanGame"]
+	path = submodules/hangmanGame
+	url = https://github.com/psarpz/hangmanGame.git
+[submodule "submodules/personalWeb"]
+	path = submodules/personalWeb
+	url = https://github.com/psarpz/psarpz.github.io.git
+[submodule "submodules/Todo-BudgetTracker"]
+	path = submodules/Todo-BudgetTracker
+	url = https://github.com/psarpz/Todo-BudgetTracker.git
