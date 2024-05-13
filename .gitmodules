@@ -7,3 +7,6 @@
 [submodule "submodules/Todo-BudgetTracker"]
 	path = submodules/Todo-BudgetTracker
 	url = https://github.com/psarpz/Todo-BudgetTracker.git
+[submodule "LeetCode"]
+	path = LeetCode
+	url = https://github.com/psarpz/LeetCode.git
